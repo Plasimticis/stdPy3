@@ -2,7 +2,7 @@ import msvcrt as msc
 
 def getchar(capital: bool=False) -> str:
     '''
-    Gets input of '1' character.
+    Gets input of '1' (a single character) character.
     Parameters:
     capital (bool): default is set to false | makes the entire character a uppercase character.
     Returns:
